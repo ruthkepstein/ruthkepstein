@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ruthkepstein
 - 👀 I’m interested in maize genetics & recombination!
 - 🌱 I’m currently learning new programs to be more efficient in my analyses.
-- 💞️ I’m looking to collaborate on how to use python!!
 - 📫 How to reach me rke27@cornell.edu
 
 <!---
